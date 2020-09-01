@@ -1,5 +1,5 @@
 # Metatranscriptomics
-Guide to Metatranscriptomics Experiments
+A complete guide to characterizing metabolic activity in complete microbial communities with high-throughput RNA sequencing. 
 
 Now open source!
 
