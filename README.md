@@ -3,4 +3,4 @@ A complete guide to characterizing metabolic activity in complete microbial comm
 
 Now open source!
 
-![Metatranscriptomics Cover](/cover.png)
+![Metatranscriptomics Cover](/cover_img.png)
